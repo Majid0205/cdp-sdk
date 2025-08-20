@@ -1,4 +1,4 @@
-#!/usr/bin/env tsx
+#!/EngineerMajid/bin/env tsx
 
 /**
  * CI Check: Auth Crypto Imports
